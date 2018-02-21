@@ -1,0 +1,17 @@
+
+title = "Don't Reinvent the Wheel"
+sub-title = "or... so they say"
+
+[[write]]
+val = '''
+So, there may or may not be powers that would like to see us stuck in the
+stone age. If there is then these powers have obviously failed. The point is
+that if people were not reinventing the wheel, then we would still be stuck with stone wheeled golf carts.
+'''
+
+[[image]]
+static = "images/flinstones.jpg"
+alt = "the Flinstones' cruiser"
+
+[[write]]
+val = "another bunch of text here"
