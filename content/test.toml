@@ -1,1 +1,8 @@
-something here to test
+key = "the-test"
+
+[[write]]
+val = '''
+This is a test post. Data will go here'''
+
+[[write]]
+val = "Data will also go here. But this will be in the 2nd section"
